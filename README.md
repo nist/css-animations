@@ -34,4 +34,3 @@ So, let's get started!
 * [Lesson 7-2](CSS_Animations_handouts/lesson7-2.md)
 * [Lesson 8-1](CSS_Animations_handouts/lesson8-1.md)
 
-
